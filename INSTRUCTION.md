@@ -38,6 +38,14 @@ docker run -d --name todo-app-container-2 --network todo-net -p 8080:8080 -e DB_
 
 https://hub.docker.com/r/petrokurinnyi/todoapp
 
+## Link to mysql-local
+
+https://hub.docker.com/r/petrokurinnyi/mysql-local
+
+## Link to the screenshot of working app
+
+https://drive.google.com/file/d/1uPZRIkb6V7YFfXO2RvgU0hcZh5m7DonO/view?usp=sharing
+
 ## Link for opening app
 
 http://localhost:8080/
